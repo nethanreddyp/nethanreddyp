@@ -7,7 +7,7 @@
 </p>
 
 <h1>Nethan_Reddy_P</h1>
-<p><b>Freelance developer or consultant</b></p>
+<p><b>Python Developer</b></p>
 
 </div>
 
@@ -48,4 +48,4 @@
 
 <a href="https://github.com/nethanreddyp">GitHub</a>
 
-<p align="center"><sub>Nethan_Reddy_P · Creative portfolio generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p align="center"><sub>Nethan_Reddy_P </p>
